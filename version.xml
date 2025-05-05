@@ -2,6 +2,6 @@
 <item>
 	<version>1.0.0.1</version>
 	<url>https://rbsoft.org/downloads/AutoUpdaterTest.zip</url>
-	<changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
+	<changelog>https://raw.githubusercontent.com/systemsiteseason/UpdateTool/refs/heads/master/changelog.txt</changelog>
 	<mandatory>false</mandatory>
 </item>
